@@ -10,7 +10,7 @@ from the [TikTok video of @samueluyYT](https://www.tiktok.com/@samueluyyt/video/
 git clone https://github.com/samueluy/PVUScamSpam
 ```
 
-## Usage and command syntax
+## Usage
 ```sh
 python sel_test.py
 ```
